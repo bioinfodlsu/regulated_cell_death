@@ -1,3 +1,3 @@
 # bioinfo_cancer_project
 
-DESEQ_Analysis Code is still being modularized
+DESEQ_Analysis code is still being modularized
